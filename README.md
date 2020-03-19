@@ -1,4 +1,4 @@
-# landolt-test
+# Landolt C Test
 Landolt C Test
 Кольца Ландольта 
 
