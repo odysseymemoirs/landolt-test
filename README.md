@@ -11,3 +11,6 @@ Online Test: https://lab6landolt.now.sh/
 Excel Package: 
 https://www.jqueryscript.net/other/JavaScript-JSON-Data-Excel-XLSX.html
 
+## Screenshots
+
+![Main Page](https://github.com/odysseymemoirs/landolt-test/blob/master/image.png)
